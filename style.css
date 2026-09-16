@@ -26,3 +26,7 @@ h1 {
 .introduction p {
     line-height: 1.6;
 }
+
+.introduction {
+    display: none;
+}
